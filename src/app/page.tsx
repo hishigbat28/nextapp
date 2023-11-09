@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
+          Next.js ийн эхлэл
           <code className={styles.code}>src/app/page.tsx</code>
         </p>
         <div>
@@ -49,7 +49,7 @@ export default function Home() {
           <h2>
             Docs <span>-&gt;</span>
           </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>API эндээс хайж үзэж болно</p>
         </a>
 
         <a
@@ -61,7 +61,7 @@ export default function Home() {
           <h2>
             Learn <span>-&gt;</span>
           </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
+          <p>Эндээс илүү их зүйл сурч болно</p>
         </a>
 
         <a
@@ -73,7 +73,7 @@ export default function Home() {
           <h2>
             Templates <span>-&gt;</span>
           </h2>
-          <p>Explore the Next.js 13 playground.</p>
+          <p>Шинэ Template ууд эндээс авч болно</p>
         </a>
 
         <a
@@ -86,7 +86,7 @@ export default function Home() {
             Deploy <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Сайн байна уу , Энд Deploy хийх заавар байгаа болно
           </p>
         </a>
       </div>
